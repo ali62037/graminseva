@@ -1,0 +1,140 @@
+.Banking{
+    background-color: #ff6600;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 70px;
+    height: 70px;
+    margin: 40px;
+    margin-right: 4rem;
+    margin-left: 4rem;
+    Color: black;
+    display: inline-block;
+    text-align: center;
+    font-display: initial;
+}
+.Banking:hover{
+    box-shadow: 0 0 4px rgb(0, 0, 0);
+    border: 0.05rem solid #ff6600;
+}
+.pay{
+    background-color: #ff6600;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 70px;
+    height: 70px;
+    margin: 40px;
+    margin-right: 4rem;
+    margin-left: 4rem;
+    Color: black;
+    text-align: center;
+    display: inline-block;
+}
+.pay:hover{
+    box-shadow: 0 0 4px rgb(0, 0, 0);
+    border: 0.05rem solid #ff6600;
+}
+.gov{
+    background-color: #ff6600;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 70px;
+    height: 70px;
+    margin: 40px;
+    margin-right: 4rem;
+    margin-left: 4rem;
+    Color: black;
+    text-align: center;
+    display: inline-block;
+}
+.gov:hover{
+    box-shadow: 0 0 4px rgb(0, 0, 0);
+    border: 0.05rem solid #ff6600;
+}
+.State{
+    background-color: #ff6600;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 70px;
+    height: 70px;
+    margin: 40px;
+    margin-right: 4rem;
+    margin-left: 4rem;
+    Color: black;
+    text-align: center;
+    display: inline-block;
+}
+.State:hover{
+    box-shadow: 0 0 4px rgb(0, 0, 0);
+    border: 0.05rem solid #ff6600;
+}
+.book{
+    background-color: #ff6600;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 70px;
+    height: 70px;
+    margin: 40px;
+    margin-right: 4rem;
+    margin-left: 4rem;
+    Color: black;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+}
+.book:hover{
+    box-shadow: 0 0 4px rgb(0, 0, 0);
+    border: 0.05rem solid #ff6600;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+header{
+    background-color: #395c60;
+    text-align: center;
+    color: white;
+    padding: 2px;
+}
+.navlist a{
+    text-decoration: none;
+    color: rgb(229,214, 247);
+}
+.navlist{
+    display: inline;
+    padding: 15px;
+}
+.Contact{
+    text-align: center;
+}
+footer{
+    color: white;
+    text-align: center;
+    background-color: #395c60;
+    padding: 2px;
+}
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    cursor: pointer;
+}
+.flash-Card{
+    text-align: center;
+}
+
